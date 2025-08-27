@@ -40,9 +40,9 @@ This project is licensed under the **MIT License**.
 
 ## 📲 Contact
 For any questions or feedback, feel free to reach out:
-- **Author:** Bismark Agyapong
-- **Email:** [markmixstudios@gmail.com](mailto:markmixstudios@gmail.com)
-- **Website:** [markmixstudios.blogspot.com](https://markmixstudios.blogspot.com/p/about.html)
-- **GitHub:** [markmix-studios](https://github.com/markmix-studios) | [bismarkagyapong](https://github.com/bismarkagyapong)
+- **Author:** Lord Bismark
+- **Email:** [info@markmixstudios.com](mailto:info@markmixstudios.com)
+- **Website:** [markmixstudios.com](https://markmixstudios.com/about)
+- **GitHub:** [markmix-studios](https://github.com/markmix-studios) | [onebismark](https://github.com/onebismark)
 
 **Enjoy using the Markmix Age Calculator! 🎉**
